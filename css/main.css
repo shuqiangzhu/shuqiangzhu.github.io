@@ -291,6 +291,11 @@ ul {
   margin-bottom: -.6em;
 }
 
+.student {
+  font-size: 12px;
+  margin-bottom: -.6em;
+}
+
 .project {
   margin: .5em -.5em 0em;
 }
